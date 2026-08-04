@@ -12,7 +12,7 @@ each step to the level of a command, click, or path, with the evidence to expect
 instead of leaving it in prose. It does **not** fire on optional suggestions or on work
 the assistant can do itself.
 
-See `SKILL.md` for the full rule. Generic by design — it exposes no internal method.
+See `SKILL.md` for the full rule. Generic by design.
 
 ## Install
 
