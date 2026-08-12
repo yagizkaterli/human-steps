@@ -1,4 +1,4 @@
-# human-steps
+# human-steps - turn hidden human work into one clear, evidence-ready next step
 
 A Claude Code skill: **never bury what you need from the human.**
 
