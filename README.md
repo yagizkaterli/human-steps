@@ -1,18 +1,17 @@
 # human-steps - turn hidden human work into one clear, evidence-ready next step
 
-A Claude Code skill: **never bury what you need from the human.**
+A Claude Code skill for requested outcomes that depend on a human-only action.
 
-The quiet failure mode of long AI-assisted sessions: the assistant does 95% of the
-work, and the 5% only the human can do is mentioned once, mid-paragraph, and lost.
-Days later the pipeline is mysteriously stuck — on a click nobody surfaced properly.
+## Result
 
-When completion, continuation, approval, safety, or delivery depends on a human-only
-action, this skill surfaces it as an explicitly flagged, numbered, concrete step list —
-each step to the level of a command, click, or path, with the evidence to expect —
-instead of leaving it in prose. It does **not** fire on optional suggestions or on work
-the assistant can do itself.
+The next human action is visible, concrete, and ready to run. The response also names what should be seen when the action succeeds.
 
-See `SKILL.md` for the full rule. Generic by design.
+## Evidence
+
+- The action is flagged and numbered.
+- Each step names a command, click, or path.
+- Each step states the evidence that confirms success.
+- The assistant keeps its own work out of the human step list.
 
 ## Install
 
