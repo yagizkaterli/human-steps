@@ -1,5 +1,9 @@
 # human-steps - turn hidden human work into one clear, evidence-ready next step
 
+<p align="center">
+  <img src="assets/human-steps-surface.svg" width="640" alt="The same ask, buried in prose and surfaced as its own block">
+</p>
+
 A Claude Code skill for requested outcomes that depend on a human-only action.
 
 ## Result
