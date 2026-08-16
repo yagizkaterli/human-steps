@@ -19,7 +19,13 @@ The next human action is visible, concrete, and ready to run. The response also 
 
 ## Install
 
-Copy `SKILL.md` into `.claude/skills/human-steps/`.
+Clone into your skills directory, or copy the single file:
+
+```sh
+git clone https://github.com/yagizkaterli/human-steps .claude/skills/human-steps
+```
+
+One file is enough — `SKILL.md` is the whole skill.
 
 ## License
 
